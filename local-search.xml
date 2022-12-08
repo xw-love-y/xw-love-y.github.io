@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>hexo常用命令</title>
+    <link href="/2022/12/08/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <url>/2022/12/08/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    
+    <content type="html"><![CDATA[<figure class="highlight axapta"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><code class="hljs axapta">常见命令：<br>hexo <span class="hljs-keyword">new</span> <span class="hljs-string">&quot;postName&quot;</span>      <span class="hljs-meta"># 新建文章</span><br>hexo <span class="hljs-keyword">new</span> page <span class="hljs-string">&quot;pageName&quot;</span> <span class="hljs-meta"># 新建页面</span><br>hexo generate            <span class="hljs-meta"># 生成静态页面至public目录</span><br>hexo <span class="hljs-keyword">server</span>              <span class="hljs-meta"># 开启预览访问端口（默认端口4000，&#x27;ctrl + c&#x27;关闭server）</span><br>hexo deploy              <span class="hljs-meta"># 部署到GitHub</span><br>hexo help                <span class="hljs-meta"># 查看帮助</span><br>hexo version             <span class="hljs-meta"># 查看Hexo的版本</span><br>缩写命令：<br>hexo n == hexo <span class="hljs-keyword">new</span><br>hexo g == hexo generate<br>hexo s == hexo <span class="hljs-keyword">server</span><br>hexo d == hexo deploy<br>组合命令：<br>hexo s -g   <span class="hljs-meta"># 生成并本地预览</span><br>hexo d -g   <span class="hljs-meta"># 生成并上传</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2022/12/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2022/12/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
